@@ -3,10 +3,9 @@ Atualmente estou explorando novas áreas do TI para que eu possa me desenvolver 
 
 ### Conecte-se comigo para que possamos trocar experiencias! 
 
-[![Perfil DIO](https://img.shields.io/badge/Perfil%20na%20DIO-purple?style=for-the-badge
-)](https://www.dio.me/users/giulialoopes15)
+[![Perfil DIO](https://img.shields.io/badge/Perfil%20na%20DIO-purple?style=for-the-badge)](https://www.dio.me/users/giulialoopes15)
 [![E-mail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=maildotru&logoColor=red&logoSize=20%25)](mailto:giulialoopes1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/giulialopes1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://br.linkedin.com/in/giulialopes1)
 
 
 ### 🔍 Minhas Habilidades: 
